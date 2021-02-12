@@ -1,0 +1,7 @@
+{
+  "name": "testSpinners",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
